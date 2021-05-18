@@ -7,3 +7,25 @@ javawebapp  phpproject
 javawebapp
 [rdhakal@developer javawebapp]$ cd javawebapp/
 [rdhakal@developer javawebapp]$
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+no changes added to commit (use "git add" and/or "git commit -a")
+[rdhakal@developer javawebapp]$ git branch -a
+* master
+  remotes/origin/main
+  remotes/origin/master
+[rdhakal@developer javawebapp]$ git checkout newfile1
+[rdhakal@developer javawebapp]$ ls
+newfile1  pom.xml  README.md  src
+[rdhakal@developer javawebapp]$ git status
+# On branch master
+nothing to commit, working directory clean
+[rdhakal@developer javawebapp]$ cat newfile1 
+Desktop  Documents  Downloads  git-test  Music  Pictures  Public  Templates  Videos
+[rdhakal@developer ~]$ cd /development/
+[rdhakal@developer development]$ ls
+javawebapp  phpproject
+[rdhakal@developer development]$ cd javawebapp/
+[rdhakal@developer javawebapp]$ ls
+
