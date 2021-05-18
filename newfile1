@@ -1,0 +1,9 @@
+Desktop  Documents  Downloads  git-test  Music  Pictures  Public  Templates  Videos
+[rdhakal@developer ~]$ cd /development/
+[rdhakal@developer development]$ ls
+javawebapp  phpproject
+[rdhakal@developer development]$ cd javawebapp/
+[rdhakal@developer javawebapp]$ ls
+javawebapp
+[rdhakal@developer javawebapp]$ cd javawebapp/
+[rdhakal@developer javawebapp]$
